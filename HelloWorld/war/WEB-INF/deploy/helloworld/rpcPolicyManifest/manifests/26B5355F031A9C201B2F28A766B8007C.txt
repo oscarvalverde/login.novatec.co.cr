@@ -1,0 +1,2 @@
+serviceClass: com.mycompany.client.rpc.OAuthLoginService
+path: 4A9E14EE92CE5EF78BE43C8B180F1259.gwt.rpc
